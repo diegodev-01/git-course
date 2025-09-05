@@ -2,6 +2,10 @@
 
 hello world
 
+## Description
+
+This repo is for my git course
+
 ## Documents
 
 https://git-scm.com/
